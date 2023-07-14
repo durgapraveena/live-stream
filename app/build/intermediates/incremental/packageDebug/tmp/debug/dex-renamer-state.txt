@@ -1,0 +1,4 @@
+#Fri Jul 14 15:34:21 IST 2023
+base.0=/home/idrbt/AndroidStudioProjects/VXG.Media.SDK.Android/MediaSDK/EncoderSDK/src/MediaStreamTest/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
